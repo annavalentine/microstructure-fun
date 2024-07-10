@@ -4,6 +4,7 @@
 
 Provide a brief introduction describing the proposed work. Be sure to also decribe what skills team members will get to learn and practice as part of this project.
 
+The proposed work for this project involves trying to extract useful metrics from microstructure data collected during the SnowEx campagignas to tempt modelers and retrieval algorithim specialists with. In NASA's own words, "SnowEx is a multi-year field experiment, which includes extensive surface-based observations to evaluate how to best combine different remote sensing technologies to accurately observe snow throughout the season in various landscapes.", in this mission statement I see this project as one of the bridges in between ground based observations and remote sensing. Many retrieval algorithims have been developed to collect SWE, depth, and other physical property estimates, all of which have uncertainties due to the complex relationship between between microwave range interactions with snow grains. Interpreting microstructure data-- can also be less than ideal. 
 ### Collaborators
 
 List all participants on the project. Here is a good space to share your personal goals for the hackweek and things you can help with.
