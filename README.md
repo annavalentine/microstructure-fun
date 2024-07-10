@@ -1,24 +1,3 @@
-# Microstructure Fun
-
-## Files and folders in your project repository
-
-* **`contributors/`**
-<br> Each team member can create their own folder under contributors, within which they can work on their own scripts, notebooks, and other files. Having a dedicated folder for each person helps to prevent conflicts when merging with the main branch. This is a good place for team members to start off exploring data and methods for the project.
-* **`notebooks/`**
-<br> Notebooks that are considered delivered results for the project should go in here.
-* **`scripts/`**
-<br> Code that is shared by the team should go in here (e.g. functions or subroutines). These will be files other than Jupyter Notebooks such as Python scripts (.py).
-* `.gitignore`
-<br> This file sets the files that will be globally ignored by `git` for the project. (e.g. you may want git to ignore temporary files or large data files, [read more about ignoring files here](https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files))
-* `environment.yml`
-<br> `conda` environment description needed to run this project.
-* `README.md`
-<br> Description of the project (see suggested headings below)
-* `model-card.md`
-<br> Description (following a metadata standard) of any machine learning models used in the project
-
-# Recommended content for your README.md file:
-
 # MicroFun
 
 ## Introduction
@@ -31,10 +10,8 @@ List all participants on the project. Here is a good space to share your persona
 
 | Name | Personal goals | Can help with | Role |
 | ------------- | ------------- | ------------- | ------------- |
-| Katherine J. | I want to learn specific python libraries for working with these data  | I can help with understanding our dataset, programming in R  | Project Lead |
-| Rosalind F. | Practice leading a software project | machine learning and python (scipy, scikit-learn) | Project Lead |
-| Alan T. | learning about your dataset | GitHub, Jupyter, cloud computing | Project Helper |
-| Rachel C. | learn to use github, resolve merge conflicts | I am familiar with our dataset | Team Member  |
+|Anna Valentine | deepen understanding of auto-correlation and covariance functions, be an excellend team coordinator | Familiar with microCT data, pandas data wrangling, methods for computing SSA | Project Lead |
+| Sydney Baratta| EX. Practice leading a software project | EX. machine learning and python (scipy, scikit-learn) | Team Member |
 | ... | ... | ... | ... |
 | ... | ... | ... | ... |
 
